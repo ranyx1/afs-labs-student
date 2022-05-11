@@ -8,6 +8,6 @@ spec:
   selector:
     app: app
   ports:
-    - name: db-service
+    - name: "5000"
       port: 5000
       targetPort: 5000
