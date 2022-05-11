@@ -25,4 +25,4 @@ spec:
         name: db-deployment
         image: harbor.dev.afsmtddso.com/rshadid/db:971c881-63db817
         ports:
-        - containerPort: 5000
+        - containerPort: 5432
