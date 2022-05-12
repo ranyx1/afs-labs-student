@@ -35,7 +35,7 @@ SET default_with_oids = false;
 
 --
 -- Name: customer_recipes; Type: TABLE; Schema: public; Owner: postgres
---
+-- random comments
 
 CREATE TABLE customer_recipes (
     cust_rec_id integer NOT NULL,
